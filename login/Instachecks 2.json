@@ -1,0 +1,20 @@
+{ "results": [
+	{
+        "ACL": {
+            "eUY8Ihyi9k": {
+                "read": true,
+                "write": true
+            }
+        },
+        "createdAt": "2015-09-21T21:40:43.345Z",
+        "email": "cmoviemaker@gmail.com",
+        "instacheckImg": {
+            "__type": "File",
+            "name": "tfss-7ac83a2d-6ef0-4cb3-9bae-e8f78c8b9050-instacheckImg.jpg",
+            "url": "http://files.parsetfss.com/ed9d8191-0e24-4358-aad3-19d6bdf42381/tfss-7ac83a2d-6ef0-4cb3-9bae-e8f78c8b9050-instacheckImg.jpg"
+        },
+        "instacheckItems": "1 Paneer Cniii 8.99\n1 Medium\n\n1 Veg Maiai Koita 8.99\n1 Medium.\n\n1 Union Kuicna 2.25\n\n1 Kingfisher - 12 oz 3.95\n\n1 Sweet Lasei 1.99\n\n1 Sweet Lassi 1.99\n\n1 Kingfisher - 12 oz 3.95\n\nSub Totai: 32.11\n\nTax: 2.81\n\nTotai: 34.92\n\nAmount Due: 34.92",
+        "objectId": "RgtlUQ50rf",
+        "updatedAt": "2015-09-21T21:40:43.345Z"
+    }
+] }
